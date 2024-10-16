@@ -5,7 +5,7 @@ import axios from 'axios';
 function App() {
   const [data, setData] = useState({
     title: '',
-    teste: ''
+    teste: '2'
   });
 
   async function getData() {

@@ -1,6 +1,7 @@
 {
   "name": "react-vite-testing-library",
   "private": true,
+  "homepage": "https://lguips.github.io/react-vite-testing-library/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

@@ -20,6 +20,7 @@ function App() {
   return (
     <>
       <h1>Hello world from gh pages</h1>
+      <h1>Teste</h1>
       {data && <h1>{data.title}</h1>}
     </>
   )
